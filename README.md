@@ -1,6 +1,6 @@
 # Bazaarface-Swift-ProUI
 <p align="center">
-  <kbd><img height="400" src="https://github.com/mhasan341/bazaarface-Swift-ProgUI/blob/main/banner.jpg"></kbd>
+  <kbd><img height="400" src="https://github.com/mhasan341/bazaarface-Swift-ProgUI/blob/main/banner.png"></kbd>
   </p>
   
 ## About
