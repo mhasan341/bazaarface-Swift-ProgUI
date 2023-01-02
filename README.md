@@ -40,4 +40,4 @@ My Portfolio: https://mhasan341.github.io
 Feel free to fork, open PR or do whatever you wish with this repo at your OWN RISK. PERIOD.
 
 ## Attribution
-Image by <a href="https://www.freepik.com/free-vector/various-screens-violet-public-transport-mobile-app_10504567.htm#query=ui%20mockup&position=6&from_view=keyword">Freepik</a>
+<a href="https://www.freepik.com/free-vector/realistic-mountains-composition-with-horizontal-landscape-cliffs-covered-with-snow-with-blue-sky-clouds-illustration_21252990.htm#page=4&query=landscape%20illustration&position=6&from_view=keyword">Image by macrovector</a> on Freepik
