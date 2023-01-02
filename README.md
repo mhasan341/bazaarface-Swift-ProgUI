@@ -7,7 +7,7 @@
 Bazaarface is an unique ecommerce application with social media features. The app allows buyers and sellers to connect and contact with each other efficiently.
 
 ## Video Mockup
-A full video can be found here: [![Bazaarface - Demo](https://img.youtube.com/vi//0.jpg)(https:/9kG_AkcVFkw/youtu.be/9kG_AkcVFkw)
+A full video can be found here: [![Bazaarface - Demo](https://img.youtube.com/vi/9kG_AkcVFkw/0.jpg)(https://youtu.be/9kG_AkcVFkw)
 
 ## Features
 The app has the following features with endless possibility to extend more
